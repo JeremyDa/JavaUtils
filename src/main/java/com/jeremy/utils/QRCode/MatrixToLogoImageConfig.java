@@ -1,4 +1,4 @@
-package com.JUtils.QRCode;
+package com.jeremy.utils.QRCode;
 
 import java.awt.Color;
 

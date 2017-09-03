@@ -1,4 +1,4 @@
-package org.jiaozhu.commonTools.net;
+package com.jeremy.util2.net;
 
 /**
  * 连接者对象，提供一些连接的基本信息

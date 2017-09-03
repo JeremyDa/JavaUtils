@@ -1,4 +1,4 @@
-package org.jiaozhu.commonTools;
+package com.jeremy.util2;
 
 import java.io.IOException;
 import java.io.PrintWriter;

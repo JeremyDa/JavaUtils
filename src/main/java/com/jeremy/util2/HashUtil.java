@@ -1,4 +1,4 @@
-package org.jiaozhu.commonTools;
+package com.jeremy.util2;
 
 /**
  * Hash算法大全<br>

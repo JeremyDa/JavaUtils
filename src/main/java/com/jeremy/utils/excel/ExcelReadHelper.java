@@ -1,4 +1,4 @@
-package com.JUtils.excel;
+package com.jeremy.utils.excel;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -19,8 +19,8 @@ import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.util.NumberToTextConverter;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
-import com.JUtils.date.DateUtils;
-import com.JUtils.date.DateFormatUtils;
+import com.jeremy.utils.date.DateUtils;
+import com.jeremy.utils.date.DateFormatUtils;
 
 /**
  * 解析Excel，支持2003、2007

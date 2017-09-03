@@ -1,4 +1,4 @@
-package org.jiaozhu.commonTools.db.ds;
+package com.jeremy.util2.db.ds;
 
 import java.sql.Connection;
 import java.sql.SQLException;
@@ -12,15 +12,15 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import com.alibaba.druid.pool.DruidDataSource;
-import org.jiaozhu.commonTools.FileUtil;
-import org.jiaozhu.commonTools.LangUtil;
-import org.jiaozhu.commonTools.Setting;
-import org.jiaozhu.commonTools.Exceptions.ConnException;
-import org.jiaozhu.commonTools.Exceptions.SettingException;
-import org.jiaozhu.commonTools.db.DbUtil;
-import org.jiaozhu.commonTools.db.DsSetting;
-import org.jiaozhu.commonTools.net.SSHUtil;
-import org.jiaozhu.commonTools.net.SocketUtil;
+import com.jeremy.util2.FileUtil;
+import com.jeremy.util2.LangUtil;
+import com.jeremy.util2.Setting;
+import com.jeremy.util2.Exceptions.ConnException;
+import com.jeremy.util2.Exceptions.SettingException;
+import com.jeremy.util2.db.DbUtil;
+import com.jeremy.util2.db.DsSetting;
+import com.jeremy.util2.net.SSHUtil;
+import com.jeremy.util2.net.SocketUtil;
 
 /**
  * 封装Druid数据源

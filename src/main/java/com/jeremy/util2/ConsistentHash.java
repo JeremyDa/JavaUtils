@@ -1,4 +1,4 @@
-package org.jiaozhu.commonTools;
+package com.jeremy.util2;
 
 import java.util.Collection;
 import java.util.SortedMap;

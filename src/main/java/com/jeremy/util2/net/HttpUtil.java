@@ -1,4 +1,4 @@
-package org.jiaozhu.commonTools.net;
+package com.jeremy.util2.net;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -16,9 +16,9 @@ import javax.servlet.http.HttpServletRequest;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import org.jiaozhu.commonTools.FileUtil;
-import org.jiaozhu.commonTools.LangUtil;
-import org.jiaozhu.commonTools.RegexUtil;
+import com.jeremy.util2.FileUtil;
+import com.jeremy.util2.LangUtil;
+import com.jeremy.util2.RegexUtil;
 
 /**
  * Http请求工具类

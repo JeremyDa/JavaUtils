@@ -1,9 +1,9 @@
-package org.jiaozhu.commonTools.wordSearch;
+package com.jeremy.util2.wordSearch;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
-import org.jiaozhu.commonTools.LangUtil;
+import com.jeremy.util2.LangUtil;
 
 /**
  * 过滤词及一些简单处理

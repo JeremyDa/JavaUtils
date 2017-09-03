@@ -1,4 +1,4 @@
-package org.jiaozhu.commonTools.net;
+package com.jeremy.util2.net;
 
 import java.io.IOException;
 import java.io.OutputStream;
@@ -7,7 +7,7 @@ import java.net.Socket;
 import java.nio.ByteBuffer;
 import java.nio.channels.SocketChannel;
 
-import org.jiaozhu.commonTools.RegexUtil;
+import com.jeremy.util2.RegexUtil;
 
 /**
  * 套接字相关工具类

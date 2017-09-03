@@ -1,4 +1,4 @@
-package com.JUtils.QRCode;
+package com.jeremy.utils.QRCode;
 
 import java.awt.Graphics2D;
 import java.awt.image.BufferedImage;

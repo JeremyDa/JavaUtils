@@ -1,4 +1,4 @@
-package org.jiaozhu.commonTools.db;
+package com.jeremy.util2.db;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

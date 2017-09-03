@@ -1,10 +1,10 @@
-package org.jiaozhu.commonTools.wordSearch;
+package com.jeremy.util2.wordSearch;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import org.jiaozhu.commonTools.LangUtil;
+import com.jeremy.util2.LangUtil;
 
 /**
  * 单词树

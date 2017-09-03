@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.JUtils.QRCode;
+package com.jeremy.utils.QRCode;
 
 import com.google.zxing.common.BitMatrix;
 

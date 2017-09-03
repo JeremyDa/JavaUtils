@@ -1,4 +1,4 @@
-package org.jiaozhu.commonTools.workflow;
+package com.jeremy.util2.workflow;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
@@ -6,7 +6,7 @@ import java.util.concurrent.locks.ReentrantLock;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import org.jiaozhu.commonTools.thread.SyncQueue;
+import com.jeremy.util2.thread.SyncQueue;
 
 /**
  * 生态系统类（生产者消费者模式实现）<br/>

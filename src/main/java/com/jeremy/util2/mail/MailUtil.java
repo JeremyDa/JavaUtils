@@ -1,4 +1,4 @@
-package org.jiaozhu.commonTools.mail;
+package com.jeremy.util2.mail;
 
 import java.util.ArrayList;
 import java.util.Collection;

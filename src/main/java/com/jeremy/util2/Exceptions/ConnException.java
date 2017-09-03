@@ -1,4 +1,4 @@
-package org.jiaozhu.commonTools.Exceptions;
+package com.jeremy.util2.Exceptions;
 
 /**
  * 数据库连接异常

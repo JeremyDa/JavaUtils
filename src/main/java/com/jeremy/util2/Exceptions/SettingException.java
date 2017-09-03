@@ -1,4 +1,4 @@
-package org.jiaozhu.commonTools.Exceptions;
+package com.jeremy.util2.Exceptions;
 
 /**
  * 设置异常

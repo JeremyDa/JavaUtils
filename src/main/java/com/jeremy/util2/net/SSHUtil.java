@@ -1,4 +1,4 @@
-package org.jiaozhu.commonTools.net;
+package com.jeremy.util2.net;
 
 import java.util.Collection;
 import java.util.HashMap;
@@ -7,8 +7,8 @@ import java.util.Map;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import org.jiaozhu.commonTools.LangUtil;
-import org.jiaozhu.commonTools.Exceptions.ConnException;
+import com.jeremy.util2.LangUtil;
+import com.jeremy.util2.Exceptions.ConnException;
 import com.jcraft.jsch.JSch;
 import com.jcraft.jsch.JSchException;
 import com.jcraft.jsch.Session;

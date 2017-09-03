@@ -1,14 +1,14 @@
-package org.jiaozhu.commonTools.db;
+package com.jeremy.util2.db;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import org.jiaozhu.commonTools.LangUtil;
-import org.jiaozhu.commonTools.Setting;
-import org.jiaozhu.commonTools.Exceptions.ConnException;
-import org.jiaozhu.commonTools.Exceptions.SettingException;
-import org.jiaozhu.commonTools.net.Connector;
-import org.jiaozhu.commonTools.net.SSHUtil;
+import com.jeremy.util2.LangUtil;
+import com.jeremy.util2.Setting;
+import com.jeremy.util2.Exceptions.ConnException;
+import com.jeremy.util2.Exceptions.SettingException;
+import com.jeremy.util2.net.Connector;
+import com.jeremy.util2.net.SSHUtil;
 
 /**
  * 数据库设定，与数据库配置文件对应

@@ -1,10 +1,10 @@
-package org.jiaozhu.commonTools.mail;
+package com.jeremy.util2.mail;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import org.jiaozhu.commonTools.Setting;
-import org.jiaozhu.commonTools.Exceptions.SettingException;
+import com.jeremy.util2.Setting;
+import com.jeremy.util2.Exceptions.SettingException;
 
 /**
  * 邮件账户对象

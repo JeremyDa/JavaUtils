@@ -1,4 +1,4 @@
-package com.JUtils.sensitiveword;
+package com.jeremy.utils.sensitiveword;
 
 import java.util.HashSet;
 import java.util.Iterator;

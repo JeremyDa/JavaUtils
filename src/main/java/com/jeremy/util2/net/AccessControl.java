@@ -1,4 +1,4 @@
-package org.jiaozhu.commonTools.net;
+package com.jeremy.util2.net;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -16,8 +16,8 @@ import org.dom4j.Element;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import org.jiaozhu.commonTools.Span;
-import org.jiaozhu.commonTools.XmlUtil;
+import com.jeremy.util2.Span;
+import com.jeremy.util2.XmlUtil;
 
 /**
  * 访问控制对象

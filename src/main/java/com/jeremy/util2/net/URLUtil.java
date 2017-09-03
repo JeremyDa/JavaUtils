@@ -1,4 +1,4 @@
-package org.jiaozhu.commonTools.net;
+package com.jeremy.util2.net;
 
 import java.io.File;
 import java.net.MalformedURLException;
@@ -7,7 +7,7 @@ import java.net.URL;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import org.jiaozhu.commonTools.Setting;
+import com.jeremy.util2.Setting;
 
 /**
  * 统一资源定位符相关工具类

@@ -1,4 +1,4 @@
-package org.jiaozhu.commonTools;
+package com.jeremy.util2.db;
 
 import java.lang.reflect.Array;
 import java.util.ArrayList;

@@ -1,6 +1,6 @@
-package org.jiaozhu.commonTools.net;
+package com.jeremy.util2.net;
 
-import org.jiaozhu.commonTools.LangUtil;
+import com.jeremy.util2.LangUtil;
 
 /**
  * HTML工具类

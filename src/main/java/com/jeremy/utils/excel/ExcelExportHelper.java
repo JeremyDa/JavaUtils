@@ -1,4 +1,4 @@
-package com.JUtils.excel;
+package com.jeremy.utils.excel;
 
 import java.beans.IntrospectionException;
 import java.beans.PropertyDescriptor;

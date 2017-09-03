@@ -1,11 +1,11 @@
-package org.jiaozhu.commonTools.wordSraech;
+package com.jeremy.util2.wordSraech;
 
 import java.util.List;
 
 import org.junit.Assert;
 import org.junit.Test;
 
-import org.jiaozhu.commonTools.wordSearch.Words;
+import com.jeremy.util2.wordSearch.Words;
 
 public class WordSearchTest {
 	@Test

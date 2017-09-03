@@ -1,4 +1,4 @@
-package org.jiaozhu.commonTools;
+package com.jeremy.util2;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -19,8 +19,8 @@ import java.util.Set;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import org.jiaozhu.commonTools.Exceptions.SettingException;
-import org.jiaozhu.commonTools.net.URLUtil;
+import com.jeremy.util2.Exceptions.SettingException;
+import com.jeremy.util2.net.URLUtil;
 
 /**
  * 设置工具类。 用于支持设置文件 1、支持变量，默认变量命名为
